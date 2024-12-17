@@ -41,5 +41,7 @@ public class C01_MapIlkClass {
         // Valuecollection'i icerisinde kac element vardir?
         System.out.println(okulMap.size());// 6
 
+        //
+
     }
 }

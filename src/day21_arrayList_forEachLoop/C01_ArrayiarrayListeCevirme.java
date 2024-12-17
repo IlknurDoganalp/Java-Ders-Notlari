@@ -1,7 +1,6 @@
 package day21_arrayList_forEachLoop;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class C01_ArrayiarrayListeCevirme {
@@ -14,6 +13,8 @@ public class C01_ArrayiarrayListeCevirme {
         List<Integer> sayilar = new ArrayList<>();
         for (int i = 0; i < arr.length; i++) {
             sayilar.add(arr[i]);
+
+            //
 
 
         }

@@ -14,7 +14,7 @@ public class C05_Child extends C03_ParentClass{
     public static void main(String[] args) {
 
         // child class'dan bir obje olusturalim
-        // ve ozelliklerini yazdiralim
+        // ve ozelliklerini yazdiralim.
 
         C05_Child obj = new C05_Child();
         System.out.println(obj.a); // 0
